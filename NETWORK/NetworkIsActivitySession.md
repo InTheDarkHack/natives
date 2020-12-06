@@ -10,3 +10,6 @@ BOOL NETWORK_IS_ACTIVITY_SESSION();
 
 
 ## Return value
+
+06.12.2020
+This looks like useless, this return 0 if player online and in session
